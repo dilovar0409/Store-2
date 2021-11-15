@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "dilovar1997",
+      "email": "dilovar@gmail.com",
+      "contact": "123456789",
+      "address": "USA and Uzbekistan",
+      "id": 1
+    },
+    {
+      "name": "wqqeeqwewqe",
+      "email": "wewqeqewdwq.com",
+      "contact": "1234321234321234",
+      "address": "America and Brazil",
+      "id": 2
+    },
+    {
+      "name": "hello",
+      "email": "wrewtwetw",
+      "contact": "124124",
+      "address": "Argentina and Spain",
+      "id": 4
+    },
+    {
+      "name": "Maraim",
+      "email": "maraim.com",
+      "contact": "123456789",
+      "address": "USA and Angren and Brazil",
+      "id": 5
+    }
+  ]
+}
